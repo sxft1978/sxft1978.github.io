@@ -109,11 +109,39 @@ http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
 http://149.129.100.78/tv.php?id=sxhh
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-id="68" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-id="69" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
-http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" tvg-id="70" tvg-name="康巴卫视" group-title="卫视",康巴卫视
 http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-id="71" tvg-name="西藏卫视" group-title="卫视",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-http://192.168.2.1:1111/59.ts
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-id="69" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
+http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" tvg-id="1046" tvg-name="优漫卡通" group-title="地方台",优漫卡通
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226420/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="67" tvg-name="卡酷动画" group-title="地方台",卡酷动画
+http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" tvg-id="6010" tvg-name="嘉佳卡通" group-title="地方台",嘉佳卡通
+http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="62" tvg-name="哈哈炫动" group-title="地方台",哈哈炫动
+http://39.135.249.20/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
+http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京冬奥纪实" group-title="地方台",北京冬奥纪实
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" tvg-id="1873" tvg-name="BTV文艺" group-title="地方台",BTV文艺
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" tvg-id="1874" tvg-name="BTV科教" group-title="地方台",BTV科教
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226434/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" tvg-id="1875" tvg-name="BTV影视" group-title="地方台",BTV影视
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" tvg-id="1876" tvg-name="BTV财经" group-title="地方台",BTV财经
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" tvg-id="1878" tvg-name="BTV生活" group-title="地方台",BTV生活
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" tvg-id="1879" tvg-name="BTV青年" group-title="地方台",BTV青年
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" tvg-id="1880" tvg-name="BTV新闻" group-title="地方台",BTV新闻
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/index.m3u8
