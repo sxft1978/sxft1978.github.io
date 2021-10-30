@@ -115,15 +115,15 @@ http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-id="69" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-id="69" tvg-name="金鹰卡通" group-title="少儿",金鹰卡通
 http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" tvg-id="1046" tvg-name="优漫卡通" group-title="地方台",优漫卡通
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" tvg-id="1046" tvg-name="优漫卡通" group-title="少儿",优漫卡通
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226420/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="67" tvg-name="卡酷动画" group-title="地方台",卡酷动画
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="67" tvg-name="卡酷动画" group-title="少儿",卡酷动画
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" tvg-id="6010" tvg-name="嘉佳卡通" group-title="地方台",嘉佳卡通
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" tvg-id="6010" tvg-name="嘉佳卡通" group-title="少儿",嘉佳卡通
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="62" tvg-name="哈哈炫动" group-title="地方台",哈哈炫动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="62" tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://39.135.249.20/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/index.m3u8
