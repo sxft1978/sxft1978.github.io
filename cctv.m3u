@@ -80,7 +80,7 @@ http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226032/1/ind
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-id="48" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-id="50" tvg-name="江西卫视" group-title="卫视",江西卫视
-http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
+http://111.13.42.8/PLTV/88888888/224/3221226570/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-id="51" tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226078/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" tvg-id="52" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
@@ -90,7 +90,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-id="54" tvg-name="山西卫视" group-title="卫视",山西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-id="55" tvg-name="陕西卫视" group-title="卫视",陕西卫视
-http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
+http://111.13.42.8/PLTV/88888888/224/3221225896/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="56" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226035/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="57" tvg-name="新疆卫视" group-title="卫视",新疆卫视
@@ -125,6 +125,8 @@ http://111.13.42.10/PLTV/88888888/224/3221226558/1.m3u8
 http://hongyanqiang.top/chudian.php?id=jjkt
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="62" tvg-name="炫动卡通" group-title="少儿",炫动卡通
 http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=""  tvg-name="北京IPTV淘宝贝" group-title="少儿",北京IPTV淘宝贝
+http://111.13.42.12/PLTV/88888888/224/3221226554/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京冬奥纪实" group-title="地方台",北京冬奥纪实
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=#
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" tvg-id="1873" tvg-name="BTV文艺" group-title="地方台",BTV文艺
